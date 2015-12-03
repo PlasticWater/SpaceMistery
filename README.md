@@ -1,4 +1,4 @@
-# SpaceMistery
+# SpaceMystery
 The POC project Space Mystery of Plastic Water
 
   This Repository is going to contain the folders of various scenes and thier respective scripts that are involved in the scene.
